@@ -3,7 +3,7 @@
         "include": ["js"]
     },
     "opts": {
-        "destination": "docs",
+        "destination": "build/docs",
         "recurse": true
     },
     "plugins": [
