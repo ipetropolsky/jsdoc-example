@@ -1,0 +1,22 @@
+{
+  "name": "jsdoc-example",
+  "version": "1.0.0",
+  "description": "https://github.com/hhru/hh.sites.main/pull/4083",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gist.github.com/f93851b93533d4cedbd8b4dea4e79b37.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/f93851b93533d4cedbd8b4dea4e79b37"
+  },
+  "homepage": "https://gist.github.com/f93851b93533d4cedbd8b4dea4e79b37",
+  "dependencies": {
+    "jsdoc": "^3.4.3"
+  }
+}
